@@ -1,0 +1,20 @@
+#root {
+  min-height: 100vh;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+::selection {
+  background: #16a34a;
+  color: white;
+}
